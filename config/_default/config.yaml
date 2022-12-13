@@ -1,9 +1,9 @@
 baseURL: /
-title: Hugo Bootstrap Skeleton
+title: Samon Blog
 theme: github.com/razonyang/hugo-theme-bootstrap
 copyright: 'Copyright © 2016-{year} Razon Yang. All Rights Reserved.'
-defaultContentLanguage: en
-# hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
+defaultContentLanguage: zh-cn
+hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
 # defaultContentLanguageInSubdir: true
 # disableLanguages:
 #  - fr
